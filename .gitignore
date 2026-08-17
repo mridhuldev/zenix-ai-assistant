@@ -1,0 +1,34 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# React / Node
+node_modules/
+dist/
+.vite/
+*.log
+
+# Zenix memory / databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local AI models
+models/
+*.gguf
+
+# llama.cpp runtime
+llama.cpp/
+
+# VS Code
+.vscode/
+
+# OS junk
+Thumbs.db
+.DS_Store
