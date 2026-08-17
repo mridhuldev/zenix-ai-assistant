@@ -293,7 +293,11 @@ Instead of relying entirely on external AI services, Zenix is gradually being mo
 
 ## 📸 Screenshots
 
-Project screenshots and demonstrations will be added as development progresses.
+![Zenix Main](assets/zenix-main.png)
+
+![Zenix Camera](assets/zenix-camera.png)
+
+![Zenix Memory](assets/zenix-memory.png)
 
 ---
 
